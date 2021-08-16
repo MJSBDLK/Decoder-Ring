@@ -17,6 +17,7 @@ The second cipher is the ***Polybius Square***.
 | **3** | L | M | N | O | P |
 | **4** | Q | R | S | T | U |
 | **5** | V | W | X | Y | Z |
+
 Each letter in the table corresponds to the number created by concatenating its coordinates, i.e. A would be 11, B would be 21, etc.
 Column value comes first. I and J share the number 42, which presented an interesting problem.
 
