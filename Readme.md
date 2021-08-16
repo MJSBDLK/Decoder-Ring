@@ -26,6 +26,7 @@ This allows for the substitution of any alphabet, without repeated letters. E.g.
 | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | M | K | R | J | O | A | W | V | L | Y | E | X | B | F | N | Q | Z | G | C | I | D | T | P | U | H | S |
+
 'no' would encode to 'fn' or decode to 'oe'.
 
 The ciphers preserve punctuation and ignore capitalization.
